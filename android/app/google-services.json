@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852057303513",
+    "project_id": "tracking-56310",
+    "storage_bucket": "tracking-56310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852057303513:android:3464bf91f66c8bfa63d1c8",
+        "android_client_info": {
+          "package_name": "com.tracking_map.traking_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852057303513-tutasp8grrdj8s8a8vvmn8er0n4cr6ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiiMm9ux592frMG0tk_9auQ189PNizN8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852057303513-tutasp8grrdj8s8a8vvmn8er0n4cr6ba.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852057303513-jj404b47a0hdb77jouivch35ud7cmg3c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trackingmap.trakingMap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
